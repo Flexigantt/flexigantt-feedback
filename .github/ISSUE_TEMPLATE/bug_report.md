@@ -6,7 +6,8 @@ labels: ''
 assignees: ''
 
 ---
-Do not attach project files, customer data, credentials, license information, or confidential screenshots. Redact personal and business information before submitting.
+
+***Do not attach project files, customer data, credentials, license information, or confidential screenshots. Redact personal and business information before submitting.***
 
 **Describe the bug**
 A clear and concise description of what the bug is.
